@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:santiago.reyes@correounivalle.edu.co)
+[santiago.reyes@correounivalle.edu.co](mailto:santiago.reyes@correounivalle.edu.co)
