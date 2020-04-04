@@ -34,7 +34,7 @@ which gcc
 
 ![Variable de entorno](/images/F2.png)
 
- ## Pruebas de compatibilidad de los compiladores
+## Pruebas de compatibilidad de los compiladores
 -----
 Existen algunas pruebas que pueden correrse para verificar que el compilador de fortran se cargó correctamente, y además que es compatible con el compilador para C. Cree una carpeta llamada **TEST** y descargue el archivo tar que contiene las pruebas y extraígalo en esta carpeta.
 
